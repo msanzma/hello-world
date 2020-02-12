@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hola Putas!
+
+Estoy aquí para convertirme en el puto profesional del hackeo
